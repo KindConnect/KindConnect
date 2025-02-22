@@ -13,6 +13,7 @@ ios/Podfile.lock
 # Xcode
 #
 build/
+quiz/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
