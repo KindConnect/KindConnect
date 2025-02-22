@@ -1,5 +1,3 @@
-![Kind Connect](assets/images/KindConnect.png)
-
 # Kind Connect - Changing the World with Small Acts of Kindness
 
 ## Why Kind Connect?
