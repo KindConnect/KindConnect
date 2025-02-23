@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Default for Mastering RN</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>The default category for questions shared in context 'Mastering RN'.</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 28  -->
+  <question type="truefalse">
+    <name>
+      <text>React Native allows developers to write native code when necessary for performance optimization.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>React Native allows developers to write native code when necessary for performance optimization.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This topic is covered in "1. Introduction to React Native</p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

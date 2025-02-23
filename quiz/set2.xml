@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- Course ID -->
+  <quizinfo>
+    <courseid>2</courseid>
+  </quizinfo>
+
+  <!-- Question 1 -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following is required for setting up React Native?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following is required for setting up React Native?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This topic is covered in 1.2. Setting Up Your Development Environment.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A) Node.js]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B) Python]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) Java]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) All of the above]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 2 -->
+  <question type="multichoice">
+    <name>
+      <text>Which tool is commonly used for managing dependencies in React Native projects?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which tool is commonly used for managing dependencies in React Native projects?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This topic is covered in 1.2. Setting Up Your Development Environment.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A) npm/yarn]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B) Maven]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) Gradle]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) Composer]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 3 -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following must be installed for iOS development in React Native?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following must be installed for iOS development in React Native?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This topic is covered in 1.2. Setting Up Your Development Environment.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A) Android Studio]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B) Xcode]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) Visual Studio Code]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) Git]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 4 - True/False -->
+  <question type="truefalse">
+    <name>
+      <text>React Native CLI and Expo are two different ways of initializing and running React Native projects.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>React Native CLI and Expo are two different ways of initializing and running React Native projects.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <answer fraction="100">
+      <text>true</text>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This topic is covered in 1.2. Setting Up Your Development Environment.</p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- Question 5 - True/False -->
+  <question type="truefalse">
+    <name>
+      <text>An emulator is required for running React Native apps on Android.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>An emulator is required for running React Native apps on Android.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This topic is covered in 1.2. Setting Up Your Development Environment.</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+    </answer>
+  </question>
+</quiz>

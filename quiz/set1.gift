@@ -1,0 +1,50 @@
+// Category for the quiz
+$CATEGORY: $module$/top/Default for Quiz - Module 1
+
+// Question 1: What is React Native?
+::What is React Native?:: 
+What is React Native? {
+    ~%-100% A JavaScript framework for building mobile apps using native code.
+    = A mobile development framework that allows you to build apps using JavaScript and React.
+    ~%-100% A tool for building Android-only applications.
+    ~%-100% A backend framework for mobile apps.
+}
+#### Feedback for incorrect answers
+#### Incorrect answer feedback: 1. Introduction to React Native
+
+// Question 2: React Native is built using?
+::React Native is built using:: 
+React Native is built using: {
+    = JavaScript and React.
+    ~%-100% JavaScript and HTML.
+    ~%-100% JavaScript and CSS.
+    ~%-100% JavaScript and Python.
+}
+#### Incorrect answer feedback: 1. Introduction to React Native
+
+// Question 3: Key advantage of React Native?
+::Key advantage of React Native?:: 
+Which of the following is a key advantage of React Native? {
+    = Native apps for both iOS and Android using the same codebase.
+    ~%-100% It only works for iOS apps.
+    ~%-100% It requires learning multiple programming languages.
+    ~%-100% It is faster than using native development.
+}
+#### Incorrect answer feedback: 1. Introduction to React Native
+
+// Question 4: React Native is based on?
+::React Native is based on:: 
+React Native is based on: {
+    ~%-100% Java.
+    ~%-100% Swift.
+    = React.js.
+    ~%-100% Kotlin.
+}
+#### Incorrect answer feedback: 1. Introduction to React Native
+
+// Question 5: True or False - React Native allows writing native code
+::React Native allows writing native code when necessary:: 
+True or False: React Native allows developers to write native code when necessary for performance optimization. {
+    = True
+}
+#### Incorrect answer feedback: 1. Introduction to React Native

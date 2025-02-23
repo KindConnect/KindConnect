@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>What does JSX stand for in React Native?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What does JSX stand for in React Native?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.4. Writing Your First React Native App</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>JavaScript Extended</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>JavaScript XML</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>JavaScript Extra</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>JavaScript Export</p>]]></text>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>In React Native, you can style components using inline styles or the StyleSheet.create() method.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>In React Native, you can style components using inline styles or the StyleSheet.create() method.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This is covered in 1.4. Writing Your First React Native App</p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Which component is used to display text in a React Native app?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which component is used to display text in a React Native app?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.4. Writing Your First React Native App</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>TextInput</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>View</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Text</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Button</p>]]></text>
+    </answer>
+  </question>
+
+  <question type="truefalse">
+    <name>
+      <text>StyleSheet.create() is used to optimize the styling of components in React Native.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>StyleSheet.create() is used to optimize the styling of components in React Native.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This is covered in 1.4. Writing Your First React Native App</p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <question type="multichoice">
+    <name>
+      <text>Which command is used to run your React Native app on an Android emulator?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which command is used to run your React Native app on an Android emulator?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.4. Writing Your First React Native App</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>react-native run-ios</p>]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>react-native run-android</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>expo start</p>]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>npm start</p>]]></text>
+    </answer>
+  </question>
+</quiz>

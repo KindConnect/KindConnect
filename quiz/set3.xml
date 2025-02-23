@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <!-- Course ID -->
+  <quizinfo>
+    <courseid>2</courseid>
+  </quizinfo>
+
+  <!-- Question 1 -->
+  <question type="multichoice">
+    <name>
+      <text>What is the role of the package.json file in a React Native project?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the role of the package.json file in a React Native project?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.3. Understanding the Project Structure.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A) It stores app-specific configurations.]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B) It lists project dependencies and scripts.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) It defines native code.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) It handles styling.]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 2 -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following files is typically the entry point in a React Native app?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following files is typically the entry point in a React Native app?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.3. Understanding the Project Structure.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A) App.js]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[B) index.js]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) package.json]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) metro.config.js]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 3 - True/False -->
+  <question type="truefalse">
+    <name>
+      <text>The metro.config.js file allows you to customize the bundler in a React Native project.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The metro.config.js file allows you to customize the bundler in a React Native project.</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <answer fraction="100">
+      <text>true</text>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback format="html">
+        <text><![CDATA[<p>This is covered in 1.3. Understanding the Project Structure.</p>]]></text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- Question 4 -->
+  <question type="multichoice">
+    <name>
+      <text>What is the purpose of the App.js file in a React Native project?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What is the purpose of the App.js file in a React Native project?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.3. Understanding the Project Structure.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[A) It defines the structure and logic of the application.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B) It stores configuration for the emulator.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) It contains native code for Android.]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[D) It defines the database schema.]]></text>
+    </answer>
+  </question>
+
+  <!-- Question 5 -->
+  <question type="multichoice">
+    <name>
+      <text>Which of the following directories is typically present in a React Native project?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Which of the following directories is typically present in a React Native project?</p>]]></text>
+    </questiontext>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>This is covered in 1.3. Understanding the Project Structure.</p>]]></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text><![CDATA[A) src]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[B) node_modules]]></text>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[C) assets]]></text>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[D) All of the above]]></text>
+    </answer>
+  </question>
+</quiz>
