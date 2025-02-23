@@ -4,14 +4,17 @@
 
 import {AppRegistry} from 'react-native';
 import {Provider as StoreProvider} from 'react-redux';
-import {store} from '@redux/store';
+import {persistor, store} from '@redux/store';
+import {PersistGate} from 'redux-persist/integration/react';
 import App from './src/App';
 import {name as appName} from './app.json';
 
 function MyApp() {
   return (
     <StoreProvider store={store}>
-      <App />
+      <PersistGate loading={null} persistor={persistor}>
+        <App />
+      </PersistGate>
     </StoreProvider>
   );
 }
